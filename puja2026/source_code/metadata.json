@@ -1,0 +1,6 @@
+{
+  "name": "শারদীয়া দুর্গাপূজা",
+  "description": "শারদীয়া দুর্গাপূজা ও মন্দিরের উন্নয়ন কার্যক্রমে ডোনেশন পোর্টাল — মহারাজপুর (প্রীতি বাজার), বোচাগঞ্জ, দিনাজপুর।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

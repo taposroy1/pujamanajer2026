@@ -1,0 +1,119 @@
+{
+  "exportedAt": "2026-10-02T08:23:37.900Z",
+  "version": "2.0",
+  "siteConfig": {
+    "templeName": "শারদীয়া দুর্গাপূজা",
+    "location": "মহারাজপুর (প্রীতি বাজার), বোচাগঞ্জ – দিনাজপুর",
+    "heroDescription": "আপনার দান মন্দিরের উন্নয়ন ও ধর্মীয়-সামাজিক কার্যক্রমে ব্যবহার করা হবে।",
+    "primaryContact": {
+      "name": "কৃষ্ণ কান্ত রায়",
+      "designation": "সভাপতি",
+      "phone": "+8801345280094"
+    },
+    "secondaryContact": {
+      "name": "তাপস চন্দ্র রায়",
+      "designation": "সাধারণ সম্পাদক",
+      "phone": "+8801345388711"
+    },
+    "paymentNumbers": {
+      "bkash": "01345280094",
+      "nagad": "01345388711",
+      "rocket": "013452800947"
+    },
+    "adminPassword": "durga2026"
+  },
+  "projects": [
+    {
+      "id": "project-tin-shed",
+      "title": "টিনশেড নির্মাণে সহযোগিতা করুন",
+      "description": "মন্দিরের প্রাঙ্গণে স্থায়ী টিনশেড নির্মাণ",
+      "collected": 81955,
+      "target": 200000,
+      "icon": "crane"
+    },
+    {
+      "id": "project-library",
+      "title": "ধর্মীয় গ্রন্থাগার",
+      "description": "আধুনিক ধর্মীয় গ্রন্থাগার তৈরি – বেদ, উপনিষদ, গীতা ও অন্যান্য গ্রন্থ",
+      "collected": 100,
+      "target": 15000,
+      "icon": "book"
+    },
+    {
+      "id": "project-child-education",
+      "title": "শিশু ধর্মীয় ও নৈতিক শিক্ষা",
+      "description": "শিশুদের জন্য নিয়মিত ধর্মীয় ও নৈতিক শিক্ষা কার্যক্রম",
+      "collected": 80,
+      "target": 15000,
+      "icon": "education"
+    }
+  ],
+  "donations": [
+    {
+      "id": "don-1",
+      "donorName": "সঞ্জয় কর্মকার",
+      "mobile": "01712345678",
+      "email": "sanjay@example.com",
+      "amount": 50000,
+      "paymentMethod": "bkash",
+      "trxId": "BKS90823412",
+      "projectId": "project-tin-shed",
+      "referenceId": "SDP-8921",
+      "status": "verified",
+      "createdAt": "2026-09-30T08:22:16.129Z",
+      "notes": "টিনশেড ফান্ড"
+    },
+    {
+      "id": "don-2",
+      "donorName": "অনুপম সরকার",
+      "mobile": "01819876543",
+      "email": "anupam@example.com",
+      "amount": 25000,
+      "paymentMethod": "nagad",
+      "trxId": "NGD44390123",
+      "projectId": "project-tin-shed",
+      "referenceId": "SDP-6712",
+      "status": "verified",
+      "createdAt": "2026-10-01T08:22:16.129Z",
+      "notes": "মন্দির নির্মাণ"
+    },
+    {
+      "id": "don-3",
+      "donorName": "বিপ্লব দাস",
+      "mobile": "01911223344",
+      "amount": 6955,
+      "paymentMethod": "cash",
+      "projectId": "project-tin-shed",
+      "referenceId": "SDP-5541",
+      "status": "verified",
+      "createdAt": "2026-10-01T20:22:16.129Z",
+      "notes": "নগদ দান"
+    },
+    {
+      "id": "don-4",
+      "donorName": "শুভ্রা রায়",
+      "mobile": "01723459876",
+      "amount": 100,
+      "paymentMethod": "bkash",
+      "trxId": "BKS77821901",
+      "projectId": "project-library",
+      "referenceId": "SDP-3401",
+      "status": "verified",
+      "createdAt": "2026-10-02T00:22:16.129Z",
+      "notes": "গীতা গ্রন্থ অনুদান"
+    },
+    {
+      "id": "don-5",
+      "donorName": "পার্থ ঘোষ",
+      "mobile": "01511224466",
+      "amount": 80,
+      "paymentMethod": "rocket",
+      "trxId": "RKT99812400",
+      "projectId": "project-child-education",
+      "referenceId": "SDP-2190",
+      "status": "verified",
+      "createdAt": "2026-10-02T04:22:16.129Z",
+      "notes": "শিশু শিক্ষা তহবিল"
+    }
+  ]
+}
